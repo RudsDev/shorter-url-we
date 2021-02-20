@@ -1,0 +1,6 @@
+galeria/**
+node_modules/**
+_test/**
+_doc/**
+coverage/**
+modules_FILA/**

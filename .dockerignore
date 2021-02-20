@@ -1,0 +1,9 @@
+Dockerfile
+Jenkinsfile
+.editorconfig
+.eslintignore
+.eslintrc.*
+.gitignore
+.git
+SQL
+node_modules

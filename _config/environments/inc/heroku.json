@@ -1,0 +1,12 @@
+{
+	"nome": "Ambiente Homologação Heroku",
+	"url": "https://shorter-url-we.herokuapp.com",
+	"postgres": {
+		"host": "",
+		"database" : "",
+		"username" : "",
+		"password" : "",
+		"port": 5432
+	},
+	"port": 4440
+}

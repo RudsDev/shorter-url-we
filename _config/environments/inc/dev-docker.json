@@ -1,0 +1,12 @@
+{
+	"nome": "Ambiente Desenvolvimento Docker",
+	"url": "http://172.17.0.3:4440",
+	"postgres": {
+		"host": "192.168.33.12",
+		"database" : "short_url",
+		"username" : "postgres",
+		"password" : "1234",
+		"port": 5432
+	},
+	"port": 4440
+}
